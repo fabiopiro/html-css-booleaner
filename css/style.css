@@ -1,4 +1,23 @@
 header {
     background-image: url(file:///C:/classe34/html-css-booleaner/img/pattern.png);
-    background-color: aqua;
+    background-color: lightblue;
+}
+
+#logo {
+    height: 200px;
+    width: 200px;
+}
+
+/* Parti sottolineate */
+span {
+    background-color: yellow;
+}
+
+/* Colorazione tabella */
+thead {
+    background-color: blue;
+}
+
+.riga-colorata {
+    background-color: lightblue;
 }
