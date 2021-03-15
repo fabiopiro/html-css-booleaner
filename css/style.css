@@ -21,3 +21,25 @@ thead {
 .riga-colorata {
     background-color: lightblue;
 }
+
+/* Pubblicità */
+#pubscritta {
+    color: grey;
+    font-size: 20px;
+}
+
+.pubuno {
+    background-image: url(file:///C:/classe34/html-css-booleaner/img/monitor.jpg);
+    width: 300px;
+    height: 200px;
+    font-size: 30px;
+    color: white;
+}
+
+.pubdue {
+    background-image: url(file:///C:/classe34/html-css-booleaner/img/graph.jpg);
+    width: 300px;
+    height: 200px;
+    font-size: 30px;
+    color: white;
+}
