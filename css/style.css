@@ -1,6 +1,6 @@
 header {
     background-image: url(file:///C:/classe34/html-css-booleaner/img/pattern.png);
-    background-color: lightblue;
+    background-color: cornflowerblue;
 }
 
 #logo {
@@ -8,21 +8,43 @@ header {
     width: 200px;
 }
 
+/* Titolo */
+h1 {
+    font-size: 50px;
+}
+
+.info {
+    color: grey;
+}
+
+#booleaner {
+    color: deepskyblue;
+}
+
+#foto-testo {
+    font-size: 10px;
+}
+
 /* Parti sottolineate */
-span {
+.sottolineato {
     background-color: yellow;
 }
 
 /* Colorazione tabella */
 thead {
-    background-color: blue;
+    background-color: deepskyblue;
 }
 
 .riga-colorata {
-    background-color: lightblue;
+    background-color: skyblue;
 }
 
 /* Pubblicità */
+
+footer {
+    font-weight: 600;
+}
+
 #pubscritta {
     color: grey;
     font-size: 20px;
