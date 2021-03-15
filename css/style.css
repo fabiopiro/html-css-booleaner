@@ -30,9 +30,15 @@ h1 {
     background-color: yellow;
 }
 
+/* Grandezza tabella */
+table {
+    table-layout: auto;
+}
+
 /* Colorazione tabella */
 thead {
     background-color: deepskyblue;
+    color: white;
 }
 
 .riga-colorata {
