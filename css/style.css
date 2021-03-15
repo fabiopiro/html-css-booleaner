@@ -1,5 +1,5 @@
 header {
-    background-image: url(file:///C:/classe34/html-css-booleaner/img/pattern.png);
+    background-image: url(../img/pattern.png);
     background-color: cornflowerblue;
 }
 
@@ -32,7 +32,8 @@ h1 {
 
 /* Grandezza tabella */
 table {
-    table-layout: auto;
+    table-layout: fixed;
+    width: 100%;
 }
 
 /* Colorazione tabella */
@@ -57,7 +58,7 @@ footer {
 }
 
 .pubuno {
-    background-image: url(file:///C:/classe34/html-css-booleaner/img/monitor.jpg);
+    background-image: url(../img/monitor.jpg);
     width: 300px;
     height: 200px;
     font-size: 30px;
@@ -65,7 +66,7 @@ footer {
 }
 
 .pubdue {
-    background-image: url(file:///C:/classe34/html-css-booleaner/img/graph.jpg);
+    background-image: url(../img/graph.jpg);
     width: 300px;
     height: 200px;
     font-size: 30px;
