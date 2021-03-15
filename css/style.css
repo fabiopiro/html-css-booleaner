@@ -36,6 +36,18 @@ table {
     width: 100%;
 }
 
+.prima-colonna {
+    width: 25%;
+}
+
+.seconda-colonna {
+    width: 25%;
+}
+
+.terza-colonna {
+    width: 50%;
+}
+
 /* Colorazione tabella */
 thead {
     background-color: deepskyblue;
