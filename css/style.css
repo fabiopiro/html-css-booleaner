@@ -6,6 +6,9 @@ header {
 #logo {
     height: 200px;
     width: 200px;
+    position: relative;
+    top: 60px;
+    left: 20px;
 }
 
 /* Titolo */
